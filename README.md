@@ -12,9 +12,14 @@ I'm currently diving deep into **React Native**, building interactive and perfor
 ---
 
 ### 🔭 I’m currently working on
-**Finite Marshal Club** – [Check it out](https://finite-marshall-club1.vercel.app/)
+**Finite Marshal Club** – [Check it out](https://finitemarshallclub.com/)
+
+**Prakriti Parikshan** – [Check it out](https://prakriti-prikshan-client.vercel.app/)
+
+**WebAmez** – [Check it out](https://webamez.com/)
 
 **2nd Brain Vault** – [Check it out](https://2nd-brain-vault.vercel.app/)
+
 
 
 ---
